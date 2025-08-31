@@ -8,7 +8,8 @@
 ### 🛠️ Tech Stack
 
 &lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black&quot; alt=&quot;React Native&quot;/&gt;
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=React&color=%2361DAFB)
+
   &lt;img src=&quot;https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&quot; alt=&quot;TypeScript&quot;/&gt;
   &lt;img src=&quot;https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black&quot; alt=&quot;JavaScript&quot;/&gt;
   &lt;img src=&quot;https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white&quot; alt=&quot;Supabase&quot;/&gt;
