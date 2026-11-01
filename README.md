@@ -11,7 +11,7 @@
 <img align="right" src="./logo.png" width="140" alt="MILab logo" />
 
 - B.S DataScience,AI in HYU
-- Member of **MILab**
+- Member of **MILab** in HYU
 - Experience in simulation and learning models for humanoid packaging tasks; currently researching **robot adaptation and model updates**.
 - Interested in **robot learning and control**, **manufacturing logistics automation**, and **semiconductor process data analysis**.
 - Building practical applications from data, including a **RAG-based course recommendation chatbot**.
