@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,100:0F766E&amp;height=220&amp;section=header&amp;text=Nahc_eeh&amp;fontSize=44&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Robotics%20%7C%20AI%20%7C%20Manufacturing&amp;descSize=17&amp;descAlignY=60" alt="Nahc_eeh — Robotics, AI, Manufacturing" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,100:0F766E&amp;height=220&amp;section=header&amp;text=Nahc_eeh&amp;fontSize=44&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Robotics%20%7C%20AI%20%7C%20Manufacturing&amp;descSize=17&amp;descAlignY=60" alt="NAHC_EEH — Robotics, AI, Manufacturing" />
 </p>
 
 <p align="center">
