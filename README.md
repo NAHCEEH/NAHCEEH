@@ -10,19 +10,42 @@
 
 <img align="right" src="./logo.png" width="140" alt="MILab logo" />
 
-- B.S **DataScience** in HYU
+- B.S DataScience,AI in HYU
 - Member of **MILab**
 - Experience in simulation and learning models for humanoid packaging tasks; currently researching **robot adaptation and model updates**.
 - Interested in **robot learning and control**, **manufacturing logistics automation**, and **semiconductor process data analysis**.
 - Building practical applications from data, including a **RAG-based course recommendation chatbot**.
+- Experience in **frontend development** and **computer vision**.
 
 ## Tech Stack
+
+**Languages**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&amp;logo=r&amp;logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+</p>
+
+**Web Development**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+</p>
+
+**Computer Vision & Deep Learning**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge" alt="YOLO" />
 </p>
 
 ## GitHub Stats
