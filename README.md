@@ -55,6 +55,12 @@
   <img src="https://img.shields.io/badge/Simulink-EF7621?style=for-the-badge" alt="Simulink" />
 </p>
 
+**Embedded Systems**
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" alt="Arduino" />
+</p>
+
 ## GitHub Stats
 
 <p align="center">
