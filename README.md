@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,100:0F766E&amp;height=220&amp;section=header&amp;text=Nahc_eeh&amp;fontSize=44&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Robotics%20%7C%20AI%20%7C%20Manufacturing&amp;descSize=17&amp;descAlignY=60" alt="NAHC_EEH — Robotics, AI, Manufacturing" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,100:0F766E&amp;height=220&amp;section=header&amp;text=Nahc_eeh&amp;fontSize=44&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Robotics%20%7C%20AI%20%7C%20Manufacturing&amp;descSize=17&amp;descAlignY=60" alt="Nahc_eeh — Robotics, AI, Manufacturing" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <img align="right" src="./logo.png" width="140" alt="MILab logo" />
 
 - B.S DataScience,AI in HYU
-- Member of **MILab** in HYU
+- Member of **MILab**
 - Experience in simulation and learning models for humanoid packaging tasks; currently researching **robot adaptation and model updates**.
 - Interested in **robot learning and control**, **manufacturing logistics automation**, and **semiconductor process data analysis**.
 - Building practical applications from data, including a **RAG-based course recommendation chatbot**.
@@ -46,6 +46,13 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge" alt="YOLO" />
+</p>
+
+**Modeling & Simulation**
+
+<p>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Simulink-EF7621?style=for-the-badge" alt="Simulink" />
 </p>
 
 ## GitHub Stats
